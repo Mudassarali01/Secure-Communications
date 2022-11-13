@@ -8,9 +8,6 @@ def euclid_gcd(x, y):
     print("\n[+] GCD: {}".format(x))
     return x
 
-# a = 12
-# b = 8
-
 a = 66528
 b = 52920
 

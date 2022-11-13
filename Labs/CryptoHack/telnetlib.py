@@ -2,7 +2,7 @@ import telnetlib
 import json
 
 HOST = "socket.cryptohack.org"
-PORT = 13377
+PORT = 11112
 
 tn = telnetlib.Telnet(HOST, PORT)
 
